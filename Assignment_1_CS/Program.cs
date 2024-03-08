@@ -119,6 +119,6 @@ public class Program
         Console.WriteLine($"Employee Id: {employee.GetId()}");
         Console.WriteLine($"Employee Name: {employee.GetName()}");
         Console.WriteLine($"Department Name: {employee.GetDepartmentName()}");
-        Console.ReadLine();
+        //Console.ReadLine();
     }
 }
